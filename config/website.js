@@ -16,7 +16,7 @@ module.exports = {
   themeColor: '#3D63AE',
   backgroundColor: '#EBEDF2',
 
-  twitter: '@luciannojunior', // Twitter Username
+  twitter: '@lcnjnr', // Twitter Username
   facebook: 'luciannojunior', // Facebook Site Name
 
   skipNavId: 'reach-skip-nav', // ID for the "Skip to content" a11y feature
